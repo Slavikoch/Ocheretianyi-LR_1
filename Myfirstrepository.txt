@@ -18,5 +18,4 @@ git push -u origin main
 8) git log.
 9) Команда git checkout в
 
-# Ocheretianyi-LR_1
-# Ocheretianyi-LR_1
+
